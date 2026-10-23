@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Maths,Physics,Chemistry,English,Computer_Science,Attendance,Total,Average,Result,Grade,Attendance_Status
+S101,Aarav Sharma,CSE,88,92,85,78,95,94,438,87.6,Pass,A,Good
+S102,Priya Verma,CSE,76,81,72,85,90,88,404,80.8,Pass,A,Good
+S103,Rohan Mehta,ECE,65,58,62,70,68,79,323,64.6,Pass,C,Good
+S104,Sneha Iyer,CSE,92,95,90,88,97,96,462,92.4,Pass,A+,Good
+S105,Karan Singh,Mechanical,45,52,48,60,55,72,260,52.0,Pass,D,Low
+S106,Ananya Gupta,ECE,81,78,84,90,82,91,415,83.0,Pass,A,Good
+S107,Vikram Rao,Mechanical,34,42,38,55,40,65,209,41.8,Fail,F,Low
+S108,Neha Joshi,Civil,70,66,74,82,69,85,361,72.2,Pass,B,Good
+S109,Arjun Nair,CSE,58,62,55,68,72,80,315,63.0,Pass,C,Good
+S110,Divya Reddy,ECE,95,89,93,91,94,97,462,92.4,Pass,A+,Good
+S111,Manish Kumar,Civil,48,44,52,58,46,70,248,49.6,Pass,E,Low
+S112,Pooja Patel,Mechanical,73,69,71,77,75,86,365,73.0,Pass,B,Good
+S113,Rahul Desai,Civil,39,45,41,62,50,68,237,47.4,Fail,F,Low
+S114,Isha Kapoor,CSE,84,87,80,92,89,93,432,86.4,Pass,A,Good
+S115,Siddharth Bose,ECE,62,70,66,72,64,82,334,66.8,Pass,C,Good
+S116,Meera Pillai,Civil,79,74,77,86,80,89,396,79.2,Pass,B,Good
+S117,Tanmay Shah,Mechanical,55,60,58,65,52,74,290,58.0,Pass,D,Low
+S118,Kavya Menon,CSE,90,85,88,94,96,95,453,90.6,Pass,A+,Good
+S119,Harsh Vyas,ECE,42,38,46,52,44,61,222,44.4,Fail,F,Low
+S120,Riya Banerjee,Civil,68,72,70,80,74,87,364,72.8,Pass,B,Good
